@@ -1,15 +1,19 @@
-* {
+/*  RESET E CONFIGURAÇÕES GERAIS */
+{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: Arial, sans-serif;
 }
 
+/* ESTILO DO CORPO DO CÓD */
+
 body {
   background: #f5f5f5;
   color: #333;
 }
 
+/* 🔝 BARRA SUPERIOR */
 .top-bar {
   background: #0a6b37;
   color: white;
@@ -18,6 +22,7 @@ body {
   padding: 6px 0;
 }
 
+/*  MENU DE NAVEGAÇÃO */
 .navbar {
   background: white;
   border-bottom: 1px solid #ddd;
@@ -54,12 +59,12 @@ body {
   margin-left: 10px;
   font-size: 14px;
 }
-
+/* MENU DE NAVEGAÇÃO DA PÁG */
 .destaques {
   padding: 40px 20px;
   text-align: center;
 }
-
+/* NOSSO GRID DE PRODUTOS */
 .products-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -67,7 +72,7 @@ body {
   max-width: 1200px;
   margin: 30px auto;
 }
-
+/* NOSSOS PRODUTOS */
 .produtos {
   background: white;
   padding: 20px;
