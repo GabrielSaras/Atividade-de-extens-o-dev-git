@@ -1,4 +1,4 @@
-# Atividade-de-extens-o-dev-git
+# atividade-de-extens-o-dev-git
 Projeto de extensão- Ecommerce
 "DEV_CLOTHES"
 Integrante líder 1:Beatriz Pires 
