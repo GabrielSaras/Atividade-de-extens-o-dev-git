@@ -24,7 +24,7 @@ body {
 
 /*  MENU DE NAVEGAÇÃO */
 .navbar {
-  background: white;
+  background: #E6E6E6;
   border-bottom: 1px solid #ddd;
 }
 
@@ -74,7 +74,7 @@ body {
 }
 /* NOSSOS PRODUTOS */
 .produtos {
-  background: white;
+  background: #E6E6E6;
   padding: 20px;
   border-radius: 8px;
   border: 1px solid #ddd;
